@@ -2,7 +2,7 @@
 
 ## Overview
 
-This repository contains a comprehensive test suite for evaluating a selection of algorithms from the well-known TheAlgorithms/Java repository. Our project focuses on rigorously testing the design, effectiveness, and real-world applicability of these algorithms using a variety of testing methodologies learned during the Distributed Cloud Computing course (COE 891) at Toronto Metropolitan University.
+This repository contains a comprehensive test suite for evaluating a selection of algorithms from the well-known [TheAlgorithms/Java](https://github.com/TheAlgorithms/Java) repository. Our project focuses on rigorously testing the design, effectiveness, and real-world applicability of these algorithms using a variety of testing methodologies learned during the Distributed Cloud Computing course (COE 891) at Toronto Metropolitan University.
 
 ## Project Scope
 
